@@ -1,4 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
  --> When you initialize a repository using the git init command, it creates a hidden .git folder where all versions of your code/ project are stored for further usage. You'll need this when commiting versions of your code in git where it'll store the ID's of the certain commits to utilize at your own leisure. 
 
- 
+ How is the staging area different from the working directory and the repository? What value do you think it offers?
+  --> The staging area is different from the working directory and repo as the staging area places the currently added files (using the git add command) in a space where git tells you these files are ready to be committed. The working directory stores files that git does not yet recognize or store within it's folder. The repository doesn't have the commits stored since they've not been added to the staging area where commits are awaiting for each file. 
