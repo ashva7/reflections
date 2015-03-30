@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+ --> When you initialize a repository using the git init command, it creates a hidden .git folder where all versions of your code/ project are stored for further usage. You'll need this when commiting versions of your code in git where it'll store the ID's of the certain commits to utilize at your own leisure. 
+
+ 
