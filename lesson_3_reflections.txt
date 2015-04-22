@@ -1,4 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
-  --> You would want to create a remote repository rather than keeping all of your work locally on your computer for a number of reasons.
-  You may want to collaborate with another working on another machine, or you'd like to change computers for some reason and you'd
-  like to push code remotely. You can house all of your code here on GitHub rather than having it on your computer, saving space as well.
+  --> You would want to create a remote repository rather than keeping all of your work locally on your computer for a number of reasons. You may want to collaborate with another working on another machine, or you'd like to change computers for some reason and you'd like to push code remotely. You can house all of your code here on GitHub rather than having it on your computer, saving space as well.
