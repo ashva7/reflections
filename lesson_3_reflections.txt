@@ -6,5 +6,5 @@ Why might you want to always pull changes manually rather than having Git automa
    --> Forks allow you to basically clone a repo from one person's GitHub page to another GitHub page, without having to locally push or pull any branches. Clones allow you to make a copy or 'clone' of any repo stored on GitHub provided a link, and pull it to a local repo. Branches allow you to maneuver or 'branch' off onto another version of code/ an experimental feature of a project, all stored either locally or remotely. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
   --> the benefit of having a copy of the lat known state of the remote stored locally is that you could easily go back and keep any changes of a file that may of had been lost or modified differently. 
-
-  
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  --> We could collaborate without the use of Git or GitHub by using email, word-to-mouth (being in the same room), chatroom, or just by working on one computer together. The easiest part would be settling merge conflicts much faster and without being far away from your partner on the project. What would make things harder is wasting time working in the same area emailing or sending files via wifi/ bluetooth which could become tedious. 
